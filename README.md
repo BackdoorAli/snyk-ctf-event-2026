@@ -1,5 +1,8 @@
 # Snyk CTF 2026 - DataVault Write-Up and Environment Preparation
 
+## Author
+https://github.com/BackdoorAli
+
 ## Overview
 
 This repository documents my preparation process, lab configuration, and partial participation in the Snyk CTF event held on **February 12, 2026**. The challenge environment covered in this write-up is the **Fetch the Flag 2026** event, with a focus on the first completed challenge: **Did You Read The FAQ?**
@@ -226,10 +229,6 @@ For future CTF events, I want to improve the following:
 ## Disclaimer
 
 This repository is intended for educational and portfolio purposes only. All activity described here took place in the context of an authorised capture-the-flag competition environment.
-
-## Author
-
-Github.com/BackdoorAli
 
 ## License
 
