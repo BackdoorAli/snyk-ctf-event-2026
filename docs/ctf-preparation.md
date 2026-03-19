@@ -49,7 +49,7 @@ The preparation screenshots show the event dashboard and challenge listing struc
 
 - account access worked
 - the event page loaded correctly
-- the team registration was recognized
+- the team registration was recognised
 - challenge categories were visible
 - the event interface could be navigated before and during the live window
 
