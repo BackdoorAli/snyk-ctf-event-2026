@@ -225,7 +225,7 @@ Most importantly, it made clear that future performance will improve less from m
 
 ## Documentation-Only Note
 
-This repository is documentation-only and is not maintained as an active security tool. This file exists to capture lessons learned from an authorized CTF event and support future preparation.
+This repository is documentation-only and is not maintained as an active security tool. This file exists to capture lessons learned from an authorised CTF event and support future preparation.
 
 ## Related Files
 
