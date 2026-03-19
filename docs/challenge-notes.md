@@ -199,7 +199,7 @@ This document reflects the actual solve path used during the event, but it also 
 
 ## Documentation-Only Note
 
-This repository is documentation-only and is not maintained as an active tool. This file exists to document an authorized CTF challenge workflow and preserve a professional record of the event.
+This repository is documentation-only and is not maintained as an active tool. This file exists to document an authorised CTF challenge workflow and preserve a professional record of the event.
 
 ## Related Files
 
