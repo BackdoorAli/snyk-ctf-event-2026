@@ -62,7 +62,7 @@ This repository does **not** provide a full competition solution set, since I on
 ## Repository Structure
 
 ```
-snyk-ctf-datavault-writeup/
+snyk-ctf-event-2026/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
