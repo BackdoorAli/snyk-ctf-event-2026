@@ -161,14 +161,14 @@ It also produced a reusable documentation trail that can support future CTF part
 
 ## Constraints and Tradeoffs
 
-Because the event overlapped with certification renewal work and other scheduling demands, the preparation phase prioritized speed and reliability over completeness.
+Because the event overlapped with certification renewal, work and other scheduling demands, the preparation phase prioritised speed and reliability over completeness.
 
 That led to a few tradeoffs:
 
 - not every setup action was documented in exhaustive detail
 - some screenshots serve as confirmation rather than full tutorials
 - challenge depth was limited by remaining time after preparation
-- documentation quality was finalized after the event rather than during it
+- documentation quality was finalised after the event rather than during it
 
 These tradeoffs are worth stating clearly because they explain why the repository documents one fully completed flag rather than a broader set of solves.
 
@@ -184,7 +184,7 @@ The preparation phase reinforced several useful habits:
 
 ## Documentation-Only Note
 
-This repository is documentation-only and is not maintained as an active security tool. This file exists to record the preparation process for an authorized CTF event and to support portfolio presentation.
+This repository is documentation-only and is not maintained as an active security tool. This file exists to record the preparation process for an authorised CTF event and to support portfolio presentation.
 
 ## Related Files
 
