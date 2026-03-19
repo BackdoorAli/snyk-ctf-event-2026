@@ -1,0 +1,83 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.python-version
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+
+# Environment and secrets
+.env
+.env.*
+*.secret
+*.key
+*.pem
+
+# Burp Suite project and session files
+*.burp
+*.burp.bak
+burp-projects/
+burp-sessions/
+
+# Exported certificates and local cert material
+cacert.der
+cacert.cer
+cacert.pem
+certs/local/
+
+# Challenge downloads and local-only working files
+downloads/
+artifacts/local/
+notes/private/
+scratch/
+workspace/
+
+# Local VM and platform-specific artifacts
+*.utm
+*.qcow2
+*.img
+*.iso
+
+# macOS metadata inside asset folders
+assets/**/.DS_Store
+
+# Keep repository assets and documentation
+!assets/
+!assets/screenshots/
+!assets/diagrams/
+!docs/
