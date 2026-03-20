@@ -88,7 +88,7 @@ Please do not use issues for:
 
 - requests for live challenge help
 - support for attacking real systems
-- requests to operationalize the repository as a tool
+- requests to operationalise the repository as a tool
 - disclosure of sensitive information in public
 
 For sensitive matters, follow the guidance in `SECURITY.md`.
