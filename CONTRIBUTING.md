@@ -19,7 +19,7 @@ Helpful contributions include:
 - refining repository structure and documentation flow
 - suggesting better wording for portfolio presentation
 - improving Markdown readability and consistency
-- other challenges where people who were involved and would like to contribute on how they got there, including steps taken to achieve completion of said challenges.
+- other challenges where people who were involved and would like to contribute on how they got there, including steps taken to achieve completion of said challenges
 
 ## Out of Scope
 
