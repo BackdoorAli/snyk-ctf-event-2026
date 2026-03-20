@@ -220,7 +220,7 @@ Even with limited participation time, the session provided useful takeaways:
 
 For future CTF events, I want to improve the following:
 
-- finalize and validate the environment before the event opens
+- prepare and validate the environment before the event opens
 - maintain a reusable CTF-ready Kali snapshot
 - keep Burp, FoxyProxy, Firefox, and certificate setup documented as a repeatable checklist
 - allocate uninterrupted time for the live event window (definitely the most important part, but life be lifing sometimes :P)
