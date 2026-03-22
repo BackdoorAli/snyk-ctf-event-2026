@@ -9,7 +9,7 @@ This document records the workflow, observations, and outcome for the first comp
 - **Category area shown in the event UI:** Misc
 - **Release date shown in the challenge UI:** February 12, 2026
 
-This was the only challenge completed during the live event window (the "data vault" challenge was initiated but not completed as time ran out halfway through it), due to limited participation time caused by overlapping certification renewal work and other schedule constraints.
+This was the only challenge completed during the live event window (the "data vault" challenge was initiated but not completed as time ran out halfway through it), due to limited participation time caused by overlapping certification renewal, work and other schedule constraints.
 
 ## Objective
 
@@ -21,7 +21,7 @@ The purpose of this challenge note is to document:
 - how the flag was identified
 - how the result was confirmed in the event UI
 
-This file is written as retrospective documentation for an authorized capture-the-flag event. It is not intended as a general guide for testing unauthorized systems.
+This file is written as retrospective documentation for an authorised capture-the-flag event. It is not intended as a general guide for testing unauthorized systems.
 
 ## Initial Challenge Read
 
